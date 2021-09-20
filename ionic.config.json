@@ -1,0 +1,7 @@
+{
+  "name": "JapanFood",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
